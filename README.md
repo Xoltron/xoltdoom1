@@ -1,6 +1,8 @@
 # THIS IS NOT MY REPOSITORY, I SIMPLY FORKED IT FOR MY OWN USE ON MY SITE.
 
 [Original Site Here](https://vidferris.github.io/FaviconDoom/favicondoom.html)
+
+[My Fork of the Site](/favicondoom.html/)
 (Might not work in all web browsers.)
 
 ## the heck is this
